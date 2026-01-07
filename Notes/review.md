@@ -129,6 +129,6 @@ This is equivalent to finding the # nonnegative solutions to $x1 + x2 + x3 = 17$
 
 ---
 ## Graphs & Trees 
-- connected graph, simple graph, planar graph,bipartite graph, complete graph, special graphs ( $K_n$, $K_(m,n)$, $C_n$, $W_n$, $Q_n$) 
+- connected graph, simple graph, planar graph,bipartite graph, complete graph, special graphs ( $K_n$, $K_{m,n}$, $C_n$, $W_n$, $Q_n$) 
 - Euler circuit, Hamilton circuit
 - shortest path, m-ary tree, tree traversal, isomophism, chromatic number, spanning tree ...
